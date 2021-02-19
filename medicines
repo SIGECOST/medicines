@@ -5,7 +5,7 @@
 		"Id" : "0",
 		"name": "Ketorolaco",
 		"description": "Sirve para aliviar el dolor de moderado a fuerte",
-		"dosis": "1 comprimido (10 mg) cada 4 a 6 horas, de acuerdo con la intensidad del dolor, no debiendo sobrepasar los 4 comprimidos al día",
+		"dosis": "1 comprimido 10 mg cada 4 a 6 horas de acuerdo con la intensidad del dolor no debiendo sobrepasar los 4 comprimidos al día",
 		"contraindicaciones":"No debe usarse por más de cinco días, pueden causar úlceras, hemorragias, o perforaciones en el estómago o el intestino"
 	},
 	{
