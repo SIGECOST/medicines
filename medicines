@@ -7,7 +7,7 @@
   "dosis":"1 comprimido 10 mg cada 4 a 6 horas de acuerdo con la intensidad del dolor, no debiendo sobrepasar los 4 comprimidos al día",
 "contraindicaciones":"No debe usarse por más de cinco días, pueden causar úlceras, hemorragias, o perforaciones en el estómago o el intestino"
 },
-{
+{     
 "id":"2",
   "name":"Paracetamol",
 "description":"Sirve para reducir la fiebre y aliviar el dolor",
@@ -51,7 +51,7 @@
 },
 {
 "id":"8",
-"name":"Penprocilina",
+"name":"Penprocilina",  
 "description":"Sive para tratar la amigdalitis, faringitis, neumonías, bronconeumonías, endocarditis bacteriana, meningitis bacteriana, estomatitis, gonorrea, sífilis y todas aquellas infecciones causadas por bacterias sensibles",
 "dosis":"Niños menores de 2 años: 200 000 U cada 12 horas, durante 7 a 10 días. Adultos: 800 000 U cada 12 horas, durante 7 a 10 días",
 "contraindicaciones":"No se administre en casos de hipersensibilidad conocida a las penicilinas y/o cefalosporinas"
