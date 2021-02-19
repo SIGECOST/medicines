@@ -1,13 +1,124 @@
+[
 {
-"Medicine"[
-  {"Id": "0","name": "Ketorolaco","description": "Sirve para aliviar el dolor","dosis": "1 comprimido cada 4 a 6 horas","contraindicaciones":"Pueden causar úlceras, hemorragias, o perforaciones en el estómago o el intestino"},
-  {"Id": "1","name": "Paracetamol","description": "Sirve para reducir la fiebre y aliviar el dolor","dosis": "Para adultos de 500mg a 1000mg cada 6-8 horas","contraindicaciones":"Puede ser perjudicial para el hígado"},
-  {"Id": "2","name": "Loratadina","description": "Sirve para aliviar en forma temporal los síntomas de la fiebre ","dosis": "Adultos y niños mayores de 12 años, 10 mg una vez al día","contraindicaciones":"Suspenda la toma y acuda al medico si presenta dificultad para tragar, hablar, o respirar"},
-  {"Id": "3","name": "Ambroxol","description": "Sirve para disminuir la viscosidad de las secreciones bronquiales y facilitando la expectoración","dosis": "Adultos:Inicial, 30 mg cada 8 h; después, 30 mg cada 12 h. ","contraindicaciones":"No se consuma en casos de hipersensibilidad al ambroxol"}, 
-  {"Id": "4","name": "Metoclopramida","description": "Sirve para prevenir de náuseas y vómitos postoperatorios ","dosis": "Adultos:10 mg hasta 3 veces al día ","contraindicaciones":"No debe administrarse si presenta hemorragia gastrointestinal"}, 
-  {"Id": "5","name": "Amikacina","description": "Sirve para tratar algunas infecciones graves que son provocadas por bacterias como la meningitis","dosis": "Aplicación intravenosa durante un período de 30 a 60 minutos","contraindicaciones":"No se administre en casos de hipersensibilidad a aminoglucósidos","contraindicaciones":"No se asministre si presenta hipersensibilidad a las penicilinas"}, 
-  {"Id": "8","name": "Penprocilina","description": "Sive para tratar la amigdalitis, faringitis, neumonías, bronconeumonías","dosis": "Niños menores de 2 años: 200 000 U cada 12 horas, durante 7 a 10 días. Adultos: 800 000 U cada 12 horas, durante 7 a 10 días","contraindicaciones":"No se administre en casos de hipersensibilidad"},
-  {"Id": "9","name": "Omeprazol","description": "Sive para tratar reflujo gastroesofágico","dosis": "Agruras e indigestión ácida: 1 cápsula de 20 mg al día","contraindicaciones":"En el caso de abuso en el consumo puede ocasionar"} 
+"Secretidentity":"Steven Grant Rogers",
+  "Heroe":"Capitán América",
+  "Description":"Capitán América cuyo nombre real es Steven Grant Rogers es un superhéroe ficticio que aparece en los cómics estadounidenses",
+"imagen":"https://www.enter.co/wp-content/uploads/2015/04/cap7-768x432.jpg"
+},
+{
+  "Heroe":"Iron Man",
+"Secretidentity":"Anthony Edward Stark",
+"Description":"Iron Man conocido en español como El Hombre de Hierroes un superhéroe ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics",
+"imagen":"https://img5.goodfon.com/original/1366x768/7/84/iron-man-komiks-marvel-fon-kostium-art.jpg"
+},
+{
+"Secretidentity":"Peter Benjamin Parker",
+  "Heroe":"Spider-Man",
+"Description":"Spider-Man llamado Hombre Araña en muchas de lastraducciones al español es un superhéroe ficticiocreado por los escritores y editores Stan Lee y Steve",
+"imagen":"https://www.mdzol.com/u/fotografias/m/2020/10/19/f1456x819-971098_1141468_4424.jpg"
+},
+{
+"Secretidentity":"Robert Bruce Banner",
+  "Heroe":"Hulk",
+"Description":"Hulk (llamado La Masa o El Hombre Increíbleen muchas de las traducciones al español) es un personaje ficticio",
+"imagen":"https://static1.funidelia.com/blog/wp-content/uploads/2015/05/portada-hulk-1024x576.jpg"
+},
+{
+"Secretidentity":"T'Challa",
+  "Heroe":"Black Panther",
+"Description":"Resistencia, velocidad, sentidos y fuerza superhumanos Su traje de vibranium le da un extra de resistencia y sus guantes son capaces de generar dagas de energía y disolver otros materiales Es un genio de la ciencia, la estrategia y las artes marciales",
+"imagen":"https://dam.smashmexico.com.mx/wp-content/uploads/2018/01/los-datos-fundamentales-que-debes-saber-de-black-panther-770x513.jpg"
+},
+{
+"Secretidentity":"Gamora Zen Whoberi Ben Titan",
+"Heroe":"Gamora",
+"Description":"Gamora Zen Whoberi Ben Titan es una superheroína ficticia que aparece en los cómics estadounidenses publicados por Marvel Comics.",
+"imagen":"https://img.europapress.es/fotoweb/fotonoticia_20180429174554_640.jpg"
+},
+{
+"Secretidentity":"Vision",
+"Heroe":"Visión",
+"Description":"Visión es un androide y superhéroe ficticio de los cómics Marvel Comics, miembro del supergrupo de losVengadores",
+"imagen":"https://www.quever.news/u/fotografias/m/2020/10/25/f1456x819-2311_172681_3340.jpg"
+},
+{
+"Secretidentity":"Scott Lang",
+"Heroe":"Ant-Man",
+"Description":"Ant-Man titulada Ant-Man: el hombre hormiga en Hispanoamérica es una película de superhéroesestadounidense de 2015 basada en los personajes homónimosde Marvel Comics",
+"imagen":"https://i.blogs.es/d47bb1/1575268056_844822_1575269216_noticia_normal/1366_2000.jpeg"
+},
+{
+"Secretidentity":"Janet Van Dyne",
+"Heroe":"The Wasp",
+"Description":"La Avispa (Janet Van Dyne) (Wasp en el idioma original)es una superheroína ficticia que aparece en cómics estadounidenses publicados por Marvel Comics. Creado por Stan Lee",
+"imagen":"https://i.blogs.es/3908de/screenshot_1291/1366_2000.jpeg"
+},
+{
+"Secretidentity":"Wanda Maximoff",
+"Heroe":"Bruja Escarlata",
+"Description":"Puede manejar la magia del caos lo cual hace que sunivel de poder sea muy variable",
+"imagen":"https://i.blogs.es/e791d0/screenshot_1279/1366_2000.jpeg"
+},
+{
+"Secretidentity":"Carol Susan Jane Danvers",
+"Heroe":"La Capitana Marvel",
+"Description":"su genética es una combinación de genes humanos y kree Posee la capacidad de volar o absorber y canalizar energía",
+"imagen":"https://i.blogs.es/23e57f/life-of-captain-marvel-origin-comic-art/1366_2000.jpeg"
+},
+{
+"Secretidentity":"Wade Winston Wilson",
+"Heroe":"Deadpool",
+"Description":"factor curativo super acelerado Fuerza resistencia y agilidad superhumanos.Inmune a los ataques telepáticos. Experto luchador",
+"imagen":"https://i.blogs.es/fc1013/5b0497aed9bc4073a3073271d1c7106c/1366_2000.jpeg"
+},
+{
+"Secretidentity":"Stephen Vincent Extraño",
+"Heroe":"dr strange",
+"Description":"Experto cirujano Maestro con las artes de la magia y poseedor de una amplia colección de artefactos místicos",
+"imagen":"https://i.blogs.es/8379ae/screenshot_1282/1366_2000.jpeg"
+},
+{
+"Secretidentity":"Venom",
+"Heroe":"Venom",
+"Description":"Síntesis de oxígeno y adaptación ambientalCapacidad auditiva cósmicaReproducción asexuada y transmutaciónInmunidad al sentido arácnido y otras capacidades extrasensoriales",
+"imagen":"https://cdn.superaficionados.com/imagenes/secret-wars.jpg"
+},
+{
+"Secretidentity":"Logan",
+"Heroe":"Wolverine",
+"Description":"capacidad de recuperación y regeneración súper acelerada.Resistencia a la telepatía y algunos tipos de poderes psíquicos.Gran longevidad",
+"imagen":"https://i.blogs.es/2cb638/marvel-lobezno-1560x880/1366_2000.jpeg"
+},
+{
+"Secretidentity":"Erik Lehnsherr",
+"Heroe":"Magneto",
+"Description":"Control del magnetismo Creación de campos de fuerza magnéticos ataque o defensa Manipulación de cualquier tipo de energía relacionada con el espectro electromagnético Manipulación del hierro sanguíneo",
+"imagen":"https://img.vixdata.io/pd/webp-large/es/sites/default/files/btg/curiosidades.batanga.com/files/Este-increible-casco-de-Magneto-es-realmente-magnetico-y-debes-verlo-8.jpg"
+},
+{
+"Secretidentity":"Brunilda",
+"Heroe":"Valkyrie",
+"Description":"la líder de las valquirias de Asgard posee una fuerza, capacidad de curación velocidad y resistencia superhumana.",
+"imagen":"https://i.blogs.es/9cf9e5/screenshot_1288/1366_2000.jpeg"
+},
+{
+"Secretidentity":"Bruce Wayne",
+"Heroe":"Batman",
+"Description":"Batman es la identidad secreta de Bruce Wayne un empresario multimillonario galán y filántropo  Presenció el asesinato de sus padres cuando era niño",
+"imagen":"https://imagenes.milenio.com/u6VYVXOUJt6b5feAnQXfBrw4lmA=/958x596/https://www.milenio.com/uploads/media/2019/09/17/bati-senal-batman-proyectada-ciudad.jpg"
+},
+{
+"Secretidentity":"Kal-El (kryptoniano)",
+"Heroe":"Superman",
+"Description":"Apariencia física Superman es un hombre alto  musculoso hombre de raza blanca con ojos azules y pelo negro corto con un rizo. ",
+"imagen":"https://generacionxbox.com/wp-content/uploads/2019/11/superman-warner-generacionxbox-940x529.jpg.webp"
+},
+{
+"Secretidentity":"Arthur Curry",
+"Heroe":"Aquaman",
+"Description":"Usualmente este personaje se caracteriza por ser un híbrido entre humano",
+"imagen":"https://img.vixdata.io/pd/webp-large/es/sites/default/files/btg/comics.batanga.com/files/5-poderes-y-habilidades-que-hacen-de-Aquaman-un-tipo-respetable.jpg"
+}
+]
 
-  ]
- }
+
