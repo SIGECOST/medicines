@@ -6,70 +6,70 @@
 		"name": "Ketorolaco",
 		"description": "Sirve para aliviar el dolor de moderado a fuerte",
 		"dosis": "1 comprimido 10 mg cada 4 a 6 horas de acuerdo con la intensidad del dolor no debiendo sobrepasar los 4 comprimidos al día",
-		"contraindicaciones":"No debe usarse por más de cinco días, pueden causar úlceras, hemorragias, o perforaciones en el estómago o el intestino"
+		"contraindicaciones": "No debe usarse por más de cinco días, pueden causar úlceras, hemorragias, o perforaciones en el estómago o el intestino"
 	},
 	{
 		"Id" : "1",
 		"name": "Paracetamol",
 		"description": "Sirve para reducir la fiebre y aliviar el dolor",
 		"dosis": "Para adultos de 500mg a 1000mg cada 6-8 horas, en función de la intensidad de los síntomas, para niños se calcula en función de su peso y edad",
-		"contraindicaciones":"Puede ser perjudicial para el hígado por lo que no debe usarse en personas con problemas hepáticos"
+		"contraindicaciones": "Puede ser perjudicial para el hígado por lo que no debe usarse en personas con problemas hepáticos"
 	},
 	{
 		"Id" : "2",
 		"name": "Loratadina",
 		"description": "Sirve para aliviar en forma temporal los síntomas de la fiebre del heno (alergia al polen, polvo u otras sustancias en el aire) y otras alergias; síntomas como estornudos, secreción nasal y picazón en los ojos, nariz y garganta",
 		"dosis": "Adultos y niños mayores de 12 años, 10 mg una vez al día",
-		"contraindicaciones":"Suspenda la toma y acuda al medico si presenta dificultad para tragar, hablar, o respirar; inflamación en la boca o a su alreadedor, o inflamación de la lengua; resoplo; babeo; mareos; o pérdida de la conciencia"
+		"contraindicaciones": "Suspenda la toma y acuda al medico si presenta dificultad para tragar, hablar, o respirar; inflamación en la boca o a su alreadedor, o inflamación de la lengua; resoplo; babeo; mareos; o pérdida de la conciencia"
 	},
 	{
 		"Id" : "3",
 		"name": "Ambroxol",
 		"description": "Sirve para disminuir la viscosidad de las secreciones bronquiales y facilitando la expectoración, está indicado en las afecciones agudas y crónicas de las vías respiratorias en las que sea necesario favorecer la eliminación de secreciones",
 		"dosis": "Adultos:Inicial, 30 mg cada 8 h; después, 30 mg cada 12 h. Cápsulas de liberación controlada, 75 mg cada 24 h. Niños mayores de 12 años: 10 mg una vez al día",
-		"contraindicaciones":"No se consuma en casos de hipersensibilidad al ambroxol, úlcera péptica y durante el embarazo. Al inicio de su administración produce aumento transitorio de los valores de aminotransferasa"
+		"contraindicaciones": "No se consuma en casos de hipersensibilidad al ambroxol, úlcera péptica y durante el embarazo. Al inicio de su administración produce aumento transitorio de los valores de aminotransferasa"
 	}, 
         {
 		"Id" : "4",
 		"name": "Metoclopramida",
 		"description": "Sirve para prevenir de náuseas y vómitos postoperatorios (NVPO), inducidos por radioterapia (NVIR) o retardados inducidos por quimioterapia (NVIQ) y tto. sintomático de náuseas y vómitos incluyendo los inducidos por migraña aguda; en niños y adolescentes de 1-18 años: como segunda línea de tto",
 		"dosis": "Adultos:10 mg hasta 3 veces al día. En niños la dosis recomendada es de 0,1 a 0,15 mg/kg de peso repetido hasta tres veces al día. - Administración intravenosa: Las dosis IV deben administrarse lentamente (bolo lento), durante al menos 3 minutos",
-		"contraindicaciones":"No debe administrarse si presenta hemorragia gastrointestinal, obstrucción mecánica o perforación"
+		"contraindicaciones": "No debe administrarse si presenta hemorragia gastrointestinal, obstrucción mecánica o perforación"
 	}, 
         {
 		"Id" : "5",
 		"name": "Amikacina",
 		"description": "Sirve para tratar algunas infecciones graves que son provocadas por bacterias como la meningitis, infecciones de la sangre, abdomen, pulmones, piel, huesos, articulacionese infecciones del tracto urinario",
 		"dosis": "Aplicación intravenosa durante un período de 30 a 60 minutos o intramuscular cada 8 a 12 horas (dos o tres veces al día)",
-		"contraindicaciones":"No se administre en casos de hipersensibilidad a aminoglucósidos, insuficiencia renal, botulismo, miastenia grave, parkinsonismo, durante embarazo y lactancia"
+		"contraindicaciones": "No se administre en casos de hipersensibilidad a aminoglucósidos, insuficiencia renal, botulismo, miastenia grave, parkinsonismo, durante embarazo y lactancia"
 	}, 
         {
 		"Id" : "6",
 		"name": "Ceftriaxona",
 		"description": "Sirve para para tratar algunas infecciones provocadas por bacterias como la gonorrea, enfermedad pélvica inflamatoria, meningitis, e infecciones de los pulmones, oídos, piel, tracto urinario, sangre, huesos, articulaciones, y abdomen",
 		"dosis": "Adultos y niños mayores de 12 años: la dosis usual es 1-2 g de ceftriaxona administrados cada 24 horas. En casos graves o infecciones causadas por microorganismos moderadamente sensibles, puede elevarse la dosis a 4 g una sola vez al día",
-		"contraindicaciones":"No se administre en pacientes con hipersensibilidad conocida a las cefalosporinas; en pacientes sensibles a la penicilina se deberá considerar la posibilidad de reacciones alérgicas cruzadas. Cuando existe enfermedad hepática y renal combinada se debe disminuir la dosis"
+		"contraindicaciones": "No se administre en pacientes con hipersensibilidad conocida a las cefalosporinas; en pacientes sensibles a la penicilina se deberá considerar la posibilidad de reacciones alérgicas cruzadas. Cuando existe enfermedad hepática y renal combinada se debe disminuir la dosis"
 	}, 
         {
 		"Id" : "7",
 		"name": "Dicloxacilina",
 		"description": "Sirve para tratar infecciones causadas por ciertos tipos de bacterias",
 		"dosis": "En infecciones leves o moderadas debidas a microorganismos susceptibles: Niños y adultos de 40 kg o más: 125-250 mg cada 6 horas V.O. 6 horas V.O. En casos de moderados a severos: 100-200 mg/kg/día por vía intravenosa por cinco días y continuar con las mismas dosis por vía oral hasta completar diez o más días",
-		"contraindicaciones":"No se asministre si presenta hipersensibilidad a las penicilinas"
+		"contraindicaciones": "No se asministre si presenta hipersensibilidad a las penicilinas"
 	}, 
         {
 		"Id" : "8",
 		"name": "Penprocilina",
 		"description": "Sive para tratar la amigdalitis, faringitis, neumonías, bronconeumonías, endocarditis bacteriana, meningitis bacteriana, estomatitis, gonorrea, sífilis y todas aquellas infecciones causadas por bacterias sensibles",
 		"dosis": "Niños menores de 2 años: 200 000 U cada 12 horas, durante 7 a 10 días. Adultos: 800 000 U cada 12 horas, durante 7 a 10 días",
-		"contraindicaciones":"No se administre en casos de hipersensibilidad conocida a las penicilinas y/o cefalosporinas"
+		"contraindicaciones": "No se administre en casos de hipersensibilidad conocida a las penicilinas y/o cefalosporinas"
 	},
         {
 		"Id" : "9",
 		"name": "Omeprazol",
 		"description": "Sive para tratar reflujo gastroesofágico, úlceras en la parte superior del intestino o en el estómago, úlceras infectadas por helicobacter pylori y exceso de ácido en el estómago",
 		"dosis": "Agruras e indigestión ácida: 1 cápsula de 20 mg al día. Úlcera gástrica y duodenal: 1 cápsula de 20 mg al día, durante 2 ó 3 semanas. Úlceras refractarias a otros regímenes de tratamientos 40 mg una vez al día",
-		"contraindicaciones":"En el caso de abuso en el consumo puede ocasionar daño cardiaco por la falta de magnesio o la demencia por falta de vitamina B12"
+		"contraindicaciones": "En el caso de abuso en el consumo puede ocasionar daño cardiaco por la falta de magnesio o la demencia por falta de vitamina B12"
 	} 
 
        ]
